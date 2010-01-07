@@ -1,0 +1,8 @@
+category: Graphics KDE
+requires: libgcc1 libkdecore5 libQt3Support4 libQtCore4 libQtGui4 libQtXml4 libstdc++6
+sdesc: "KDE icon editor"
+ldesc: "KIconEditor, the KDE 4 Icon Editor, is a small graphics drawing
+program especially for creating icons using the standard KDE icon
+palette. It has most of the tools which are needed for easy creation of
+icons including: Line, Ellipse, Circle, Rectangle, Freehand, Eraser, and
+Spraycan."
