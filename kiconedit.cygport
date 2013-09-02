@@ -1,0 +1,13 @@
+inherit kde4
+
+NAME="kiconedit"
+VERSION=4.4.0
+RELEASE=1
+CATEGORY="Graphics"
+SUMMARY="KDE icon editor"
+DESCRIPTION="KIconEditor, the KDE 4 Icon Editor, is a small graphics drawing
+program especially for creating icons using the standard KDE icon palette.
+It has most of the tools which are needed for easy creation of icons
+including: Line, Ellipse, Circle, Rectangle, Freehand, Eraser, and Spraycan."
+SRC_URI="mirror://kde/stable/extragear/kiconedit-${VERSION}.tar.bz2"
+PATCH_URI="4.4.0-kde45.patch"

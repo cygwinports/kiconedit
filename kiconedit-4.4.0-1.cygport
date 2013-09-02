@@ -1,5 +1,0 @@
-inherit kde4
-
-DESCRIPTION="KDE icon editor"
-
-SRC_URI="mirror://kde/stable/${PV}/src/extragear/${P}.tar.bz2"
